@@ -27,4 +27,4 @@ _Note: Please excuse the large amount of comments in my code, they are used as n
 ![chuck](https://user-images.githubusercontent.com/59063950/91676248-3553ad80-eb0d-11ea-8fc7-e674ef0784a4.png)
 
 ### Website look:
-![chuck](https://imgur.com/a/sFPtuFC)
+![chuck](https://i.postimg.cc/Gtztfz5z/Screenshot-from-2021-11-29-16-55-34.png)
