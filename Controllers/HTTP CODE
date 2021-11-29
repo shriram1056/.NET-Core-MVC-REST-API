@@ -1,0 +1,14 @@
+200- success for GET
+201- success for POST
+204 - No Content for patch and put
+
+PUT - "FULL" update, need to supply the entire object even if only one property is updated. inefficient and error prone. not used so much patch is used.
+
+PATCH - recommended for update. pick certain attributes and update it. define patch document
+it can do 6 operations on a given object's attributes: add, remove, replace, move, copy and move.
+
+the default behavior converts .net Object to camelCased json.
+
+patch operations: http://jsonpatch.com/
+
+packages for patch - JsonPatch for patch and Mvc.NewtonsoftJson - we add this because

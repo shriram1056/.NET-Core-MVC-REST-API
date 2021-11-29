@@ -1,0 +1,5 @@
+make the class inherit profile to create mapping.  profile folder
+
+we don't have to register it as AddAutoMapper finds it using GetAssembly
+
+It maps the properties of two different objects by transforming the input object of one type to the output object of another type.

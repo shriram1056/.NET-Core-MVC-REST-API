@@ -1,0 +1,9 @@
+this folder is for creating mock data
+
+ICommanderRepo - interface or type for class
+
+MockdataCommanderRepo - for using mock data without db connection
+
+SqlCommanderRepo - for using operations on database
+
+Commander context - access to all tables in a given database

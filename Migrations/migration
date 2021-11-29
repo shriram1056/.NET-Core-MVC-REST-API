@@ -1,0 +1,3 @@
+dotnet ef migrations add name
+no need to create db, its auto created with Initial Catalog
+entity framework design creates the InitialMigrations.Designer

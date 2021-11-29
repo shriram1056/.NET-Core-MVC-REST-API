@@ -1,0 +1,9 @@
+sql server connection: sqlcmd -S localhost -U SA -P Shriram@1056, S for servername, U for user, P for password
+
+name of base namespace should be same as the project and folders in the project should come after base namespace in heirarchy, this because its defined in PROGRAM.CS file which has main().
+
+you don't have to import if 2 classes are in same namespace but different file
+
+Add scoped - gives the same object for the entire http request. transient - gives a new obj for every time we need the object
+
+Addtransient- makes a new obj every time its requested
